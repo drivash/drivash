@@ -1,38 +1,40 @@
-# 👋 Hey, I'm [Your Name]
+<h1 align="center">👋 Hey, I'm <strong>Daniel Rivas</strong></h1>
 
-I'm a Data Science & Artificial Intelligence student passionate about turning data into insights and building practical machine learning solutions.  
-Currently focused on improving my skills in ML, statistics, and real-world data analysis.
+<p align="center">
+  Data Science & Artificial Intelligence student passionate about transforming data into meaningful insights and building practical ML solutions.<br>
+  Currently focusing on improving my machine learning, statistics, and real-world data analysis skills.
+</p>
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages**
-- Python
-- R
-- SQL
+### **Languages**
+- Python  
+- R  
+- SQL  
 
-**Data Science & Machine Learning**
+### **Data Science & Machine Learning**
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn / Plotly  
-- Scikit-Learn
+- Scikit-Learn  
 
-**Tools**
+### **Tools**
 - Jupyter Notebook  
 - Google Colab  
 - Visual Studio Code  
 
-**Core Concepts**
+### **Core Concepts**
 - Machine Learning fundamentals (regression, classification, clustering)  
 - Data preprocessing (cleaning, encoding, scaling)  
-- Statistics
-- Web Scrapping (selenium, Beautiful Soup)
+- Statistics  
+- Web Scraping (Selenium, BeautifulSoup)  
 - Exploratory Data Analysis (EDA)  
 - ETL basics  
 
-**Other**
-- APIs
+### **Other**
+- APIs  
 - OOP fundamentals in Python  
 
 ---
@@ -40,21 +42,21 @@ Currently focused on improving my skills in ML, statistics, and real-world data 
 ## 📌 Featured Projects
 
 _(Coming soon)_  
-In the meantime, you can check out my academic projects as I keep improving and uploading new work.
+For now, feel free to explore my academic projects — more personal ML/DS projects are on the way.
 
 ---
 
-## 🎯 What I'm focusing on this year
+## 🎯 Current Goals
 
 - Building 2–3 personal ML/DS projects  
-- Improving my model-building and evaluation skills  
+- Improving model-building and evaluation techniques  
 - Exploring deep learning and real-world datasets  
-- Becoming more consistent with clean, well-documented code  
+- Writing cleaner, well-documented, reproducible code  
 
 ---
 
-## 💼 If you're reading this from my CV
+## 💼 From My CV?
 
 Thanks for visiting my GitHub!  
-Feel free to reach out — I'm always open to feedback, collaboration, or new opportunities.
+I'm always open to feedback, collaboration, or new opportunities — feel free to reach out.
 
