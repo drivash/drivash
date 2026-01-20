@@ -58,18 +58,13 @@ Built with Selenium and Pandas to compare returns, volatility and management cos
 
 🔗 github.com/drivash/financial-webscraping-analysis
 
-
-## 🎯 Current Goals
-
-- Building 2–3 personal ML/DS projects  
-- Improving model-building and evaluation techniques  
-- Exploring deep learning and real-world datasets  
-- Writing cleaner, well-documented, reproducible code  
-
 ---
 
-## 💼 From My CV?
+## Contact
 
-Thanks for visiting my GitHub!  
-I'm always open to feedback, collaboration, or new opportunities — feel free to reach out.
+* 📧 Email: [drivash05@gmail.com](mailto:drivash05@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/drivash05
+
+Open to internships, junior roles and collaborations in Data Science / Machine Learning.
+
 
