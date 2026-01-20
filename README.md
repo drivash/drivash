@@ -39,12 +39,26 @@
 
 ---
 
+
 ## 📌 Featured Projects
 
-_(Coming soon)_  
-For now, feel free to explore my academic projects — more personal ML/DS projects are on the way.
+### 🩺 Diabetes Risk Prediction (Machine Learning)
+
+**Supervised ML pipeline for early Type 2 Diabetes detection**
+Optimized for high recall on severely imbalanced medical data using Scikit-learn.
+Key topics: class imbalance, SMOTE, cross-validation, model selection, medical screening.
+
+🔗 github.com/drivash/diabetes-risk-prediction-ml
 
 ---
+
+### 📊 Financial Web Scraping & Analysis
+
+**Web scraping and performance analysis of ETFs, mutual funds and stocks**
+Built with Selenium and Pandas to compare returns, volatility and management costs.
+
+🔗 github.com/drivash/financial-webscraping-analysis
+
 
 ## 🎯 Current Goals
 
