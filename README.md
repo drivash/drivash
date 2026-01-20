@@ -50,7 +50,6 @@ Key topics: class imbalance, SMOTE, cross-validation, model selection, medical s
 
 🔗 github.com/drivash/diabetes-risk-prediction-ml
 
----
 
 ### 📊 Financial Web Scraping & Analysis
 
