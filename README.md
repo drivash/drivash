@@ -49,12 +49,14 @@
 **Supervised ML pipeline for early Type 2 Diabetes detection**
 Optimized for high recall on severely imbalanced medical data using Scikit-learn.
 Key topics: class imbalance, SMOTE, cross-validation, model selection, medical screening.
+
 🔗 [github.com/drivash/diabetes-risk-prediction-ml](https://github.com/drivash/diabetes-risk-prediction-ml)
 
 ### 📊 Financial Web Scraping & Analysis
 **Web scraping and performance analysis of ETFs, mutual funds and stocks**
 Built with Selenium and Pandas to compare returns, volatility and management costs.
 Key topics: Selenium, Pandas, data analysis, financial metrics.
+
 🔗 [github.com/drivash/financial-webscraping-analysis](https://github.com/drivash/financial-webscraping-analysis)
 
 ---
